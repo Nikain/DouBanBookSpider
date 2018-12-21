@@ -1,2 +1,2 @@
 # DouBanBookSpider
-This project is trying to get all the douban book info in order to find books you like
+这个项目存在的意义主要是为了能从茫茫书海中找到那部分你想看的，你可以通过你的自定义SQL语句来筛选图书信息，最终得到你要的那部分。
